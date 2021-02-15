@@ -1,3 +1,10 @@
+PLEASE NOTE:
+All client secrets have been removed from the code, if this app is to be started, sql, and intuit client secrets must be re-incorporated.
+
+
+
+
+
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo_text.svg" width="320" alt="Nest Logo" /></a>
 </p>
